@@ -5,7 +5,7 @@
 #include <boost/test/unit_test.hpp>
 #include "../boost_unit_tests/testowany program.h"
 
-// test stash
+// test stash 11
 
 BOOST_AUTO_TEST_SUITE(Matematyka_TESTY)
 BOOST_AUTO_TEST_CASE(TestDodawania)
