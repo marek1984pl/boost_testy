@@ -25,5 +25,16 @@ double podziel(double a, double b)
 
 int odejmij(int a, int b)
 {
+	int c = 4;
 	return a - b;
+}
+
+int KlasaTestowa::getSimpla_data() const
+{
+	return simple_data;
+}
+
+void KlasaTestowa::setSimple_data(const int s_d)
+{
+	simple_data = s_d;
 }
